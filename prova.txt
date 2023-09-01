@@ -1,0 +1,7 @@
+Uniao de A = {3, 5, 67, 7} e B ={1, 2, 3, 4}
+
+Intersecao de C = {1, 2, 3, 4, 5} e D = {4,5}
+
+Diferenca de E ={1, A, C, 34} e F = {A, C, D, 23}
+
+Produto certesiano G ={3, 4, 5, 5, A, B, R} e H = {1, B, C, D, 1}
